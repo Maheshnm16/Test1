@@ -36,8 +36,9 @@
 						<objectStoreV2>true</objectStoreV2>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.3.0</muleVersion>
-						<server>mvncloudhub2</server>
-						<applicationName>mvn-test1</applicationName>
+						<username>Maheshnm</username>
+						<password>Mahesh16</password>
+						<applicationName>mvn-test16</applicationName>
 						<environment>Sandbox</environment>
 						<region>us-east-1</region>
 
